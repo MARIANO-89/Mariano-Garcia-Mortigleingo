@@ -1,26 +1,24 @@
 ## 💼 Sobre mí
 
-¡Hola! Soy **[Mariano Garcia Mortigliengo**, Desarrollador BI especializado en la implementación de soluciones de inteligencia de negocios utilizando herramientas como **SQL Server, SSIS, SSAS, Power BI, Tableau y Looker Studio**. También tengo experiencia en prototipado y mockups con **Figma** y recientemente estoy profundizando en **desarrollo front-end** con **React, Next.js, Astro**, además de HTML y CSS.
+¡Hola! Soy **Mariano Garcia Mortigliengo**, Desarrollador BI especializado en la implementación de soluciones de inteligencia de negocios utilizando herramientas como **SQL Server, SSIS, SSAS, Power BI, Tableau y Looker Studio**. También tengo experiencia en prototipado y mockups con **Figma** y recientemente estoy profundizando en **desarrollo front-end** con **React, Next.js, Astro**, además de HTML y CSS.
 
 - 🌍 **Ubicación**: Santander, Cantabria
 - 📧 **Correo**: nano_carp@hotmail.com
-- 💼 **LinkedIn**: [[https://www.linkedin.com/in/marianogarciam/]]
+- 💼 **LinkedIn**: https://www.linkedin.com/in/marianogarciam/
 - 🌐 **Portfolio**: Próximamente
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/tu-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-Repositorio-black)](https://github.com/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/marianogarciam/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositorio-black)](https://github.com/MARIANO-89)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Web-orange)](https://tu-portfolio.com)
 
 ---
 
 ## 📚 Educación
 
-- 🎓 **[Título]** en Administración y dirección de empersas, especialidad en finanzas - Universidad de Cantabria *(2016 – 2020)*.
+- 🎓 **Grado** en Administración y dirección de empersas, especialidad en finanzas - Universidad de Cantabria *(2016 – 2020)*.
 - 📜 **Certificaciones**:
-   - 🏆 [Certificación en Power BI] - [Organización], [Año].
-    
-
-
+   - 🏆 Power BI Data Analyst Associate - Microsoft Certified: , 2023.
+[!Certificado](https://img.shields.io/badge/Portfolio-Web-orange)](https://learn.microsoft.com/api/credentials/share/es-es/marianogarcia-9319/DE805DB0B8A8EEEF?sharingId=CF293C680E372AA7)
 ---
 
 ## 💻 Experiencia Profesional
