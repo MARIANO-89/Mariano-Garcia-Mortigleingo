@@ -73,11 +73,17 @@
 - 💡 **Tecnologías**: Power BI, SQL Server, SSAS.
 - 🔗 **Repositorio**: No disponible.
 
+### 🔹 Desarrollo de visualizar datos con Streamlit & PygWalker
+🌟 Se crea el proyecto para poder realizar cargas de datos, xlsx o csv, para que se puedan crear visualizaciones de manera agil y gratis.
+
+- 💡 **Tecnologías**: Python, CSS, PygWalker y Streamlit
+- 🔗 **Repositorio**: [![Visualiza tus datos](https://img.shields.io/badge/-Visualiza%20tus%20datos-%23513969?logo=googlechrome&logoColor=%23ffffff&labelColor=%23513969)](https://visualizar-datos.streamlit.app/)
+
 ### 🔹 Desarrollo de Web Desbocados
 🌟 Se realiza el FrontEnd para una tienda de ventas de empanadas.  
 
 - 💡 **Tecnologías**: REACT, JS, HTML5, Tailwind
-- 🔗 **Repositorio**: [![Portfolio](https://img.shields.io/badge/-Desbocados-%23ff9999?logo=googlechrome&logoColor=white&labelColor=%23ff9999)](https://desbocados.vercel.app/)
+- 🔗 **Repositorio**: [![Portfolio](https://img.shields.io/badge/-Desbocados-%23513969?logo=googlechrome&logoColor=%23ffffff&labelColor=%23513969)](https://desbocados.vercel.app/)
 
 ---
 
