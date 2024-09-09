@@ -1,6 +1,7 @@
 ## 💼 Sobre mí
 
-¡Hola! Soy **Mariano Garcia Mortigliengo**, Desarrollador BI especializado en la implementación de soluciones de inteligencia de negocios utilizando herramientas como **SQL Server, SSIS, SSAS, Power BI, Tableau y Looker Studio**. También tengo experiencia en prototipado y mockups con **Figma** y recientemente estoy profundizando en **desarrollo front-end** con **React, Next.js, Astro**, además de HTML y CSS.
+¡Hola 👋!
+Me llamo **Mariano Garcia Mortigliengo** y soy **Desarrollador BI** especializado en la implementación de soluciones de inteligencia de negocios utilizando herramientas como **SQL Server, SSIS, SSAS, Power BI, Tableau y Looker Studio**. También tengo experiencia en prototipado y mockups con **Figma** y recientemente estoy profundizando en **desarrollo front-end** con **React, Next.js, Astro**, además de HTML y CSS.
 
 - 🌍 **Ubicación**: Santander, Cantabria
 - 📧 **Correo**: nano_carp@hotmail.com
