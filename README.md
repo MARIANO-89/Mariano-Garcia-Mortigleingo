@@ -10,7 +10,7 @@ Me llamo **Mariano Garcia Mortigliengo** y soy **Desarrollador BI** especializad
 
 [![LinkedIn](https://img.shields.io/badge/-Perfil-blue?logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/marianogarciam/)
 [![GitHub](https://img.shields.io/badge/-Repositorio-black?logo=github&logoColor=white&label=)](https://github.com/MARIANO-89?tab=repositories)
-[![Portfolio](https://img.shields.io/badge/-Web-orange?logo=googlechrome&logoColor=white&label=)](https://tu-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Web-orange?logo=googlechrome&logoColor=white&label=)]()
 
 ---
 
