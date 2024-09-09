@@ -88,16 +88,6 @@ Me llamo **Mariano Garcia Mortigliengo** y soy **Desarrollador BI** especializad
 
 ---
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/TU_USUARIO">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=MARIANO-89&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/TU_USUARIO">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARIANO-89&layout=compact&theme=radical" />
-</a>
-
----
 ## 📚 Educación
 
 - 📜 **Certificaciones**:
