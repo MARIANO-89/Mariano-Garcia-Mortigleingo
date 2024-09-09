@@ -16,14 +16,14 @@
 ## 💻 Experiencia Profesional
 
 ### 🏢 Desarollador BI - Datua SA
-📅 **[12-2022 – Actualidad]**
+📅 **[12/2022 – Actualidad]**
 
 - Desarrollo y mantenimiento de reportes interactivos y dashboards en **Power BI**.
 - Implementación de procesos ETL utilizando **SQL Server Integration Services (SSIS)** y modelado de datos en **SQL Server Analysis Services (SSAS)**.
 - Creación de prototipos y maquetas con **Figma** para la presentación visual de los datos.
 
 ### 🏢 Business partner - Decathlon SA
-📅 **[06-2021 – 12-2022]**
+📅 **[06/2021 – 12/2022]**
 
 - Análisis financiero y contable de las tiendas de Asturias y Cantabria
 - Diseño e implementación de soluciones BI completas, integrando múltiples fuentes de datos y generando informes automatizados.
