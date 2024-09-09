@@ -34,8 +34,8 @@ Me llamo **Mariano Garcia Mortigliengo** y soy **Desarrollador BI** especializad
 ## 🛠 Habilidades Técnicas
 
 ### 🖥 **BI Tools**:
-- Power BI: ![Power BI](https://img.shields.io/badge/Power%20BI-95%25-brightgreen?logo=powerbi&logoColor=white&labelColor=%23b8e994)
-- Tableau: ![Tableau](https://img.shields.io/badge/Tableau-70%25-f0d86e?logo=tableau&logoColor=white&labelColor=%23f0d86e)
+- Power BI: ![Power BI](https://img.shields.io/badge/Power%20BI-85%25-brightgreen?logo=powerbi&logoColor=white&labelColor=%23b8e994)
+- Tableau: ![Tableau](https://img.shields.io/badge/Tableau-60%25-f0d86e?logo=tableau&logoColor=white&labelColor=%23f0d86e)
 - Looker Studio: ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-50%25-f0d86e?logo=google&logoColor=white&labelColor=%23f0d86e)
 - SSIS: ![SSIS](https://img.shields.io/badge/SSIS-75%25-brightgreen?logo=microsoft&logoColor=white&labelColor=%23b8e994)
 - SSAS: ![SSAS](https://img.shields.io/badge/SSAS-75%25-brightgreen?logo=microsoft&logoColor=white&labelColor=%23b8e994)
@@ -44,7 +44,7 @@ Me llamo **Mariano Garcia Mortigliengo** y soy **Desarrollador BI** especializad
 - Figma: ![Figma](https://img.shields.io/badge/Figma-85%25-brightgreen?logo=figma&logoColor=white&labelColor=%23b8e994)
 
 ### 💻 **Lenguajes de Programación**:
-- SQL: ![SQL](https://img.shields.io/badge/SQL-75%25-brightgreen?logo=microsoftsqlserver&logoColor=white&labelColor=%23b8e994)
+- SQL: ![SQL](https://img.shields.io/badge/SQL-65%25-brightgreen?logo=microsoftsqlserver&logoColor=white&labelColor=%23b8e994)
 - Python: ![Python](https://img.shields.io/badge/Python-40%25-ff9999?logo=python&logoColor=white&labelColor=%23ff9999)
 - JavaScript: ![JavaScript](https://img.shields.io/badge/JavaScript-30%25-ff9999?logo=javascript&logoColor=white&labelColor=%23ff9999)
 - HTML: ![HTML](https://img.shields.io/badge/HTML-55%25-f0d86e?logo=html5&logoColor=white&labelColor=%23f0d86e)
