@@ -99,12 +99,12 @@
 ---
 ## 📚 Educación
 
-- 🎓 **Grado** en Administración y dirección de empersas, especialidad en finanzas - Universidad de Cantabria *(2016 – 2020)*.
 - 📜 **Certificaciones**:
-   - 🏆 Power BI Data Analyst Associate - Microsoft Certified: , 2023. [![Certificación](https://img.shields.io/badge/Certificación-Microsoft%20BI-blue)](https://learn.microsoft.com/api/credentials/share/es-es/marianogarcia-9319/DE805DB0B8A8EEEF?sharingId=CF293C680E372AA7)
+   - 🏆 Power BI Data Analyst Associate - Microsoft Certified: , 2023. [![Certificación](https://img.shields.io/badge/Certificación-Microsoft%20BI-%23513969?logo=microsoft&logoColor=white&labelColor=%23513969)](https://learn.microsoft.com/api/credentials/share/es-es/marianogarcia-9319/DE805DB0B8A8EEEF?sharingId=CF293C680E372AA7)
+
    - 🏆 FronEnd React - Geekshub academy
    - 🏆 BackEnd Express - Geekshub academy
-
+- 🎓 **Grado** en Administración y dirección de empersas, especialidad en finanzas - Universidad de Cantabria *(2016 – 2020)*.
 ---
 
 ## 📫 Contacto
