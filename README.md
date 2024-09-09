@@ -18,7 +18,7 @@
 - 🎓 **Grado** en Administración y dirección de empersas, especialidad en finanzas - Universidad de Cantabria *(2016 – 2020)*.
 - 📜 **Certificaciones**:
    - 🏆 Power BI Data Analyst Associate - Microsoft Certified: , 2023.
-[!Certificado](https://img.shields.io/badge/Portfolio-Web-orange)](https://learn.microsoft.com/api/credentials/share/es-es/marianogarcia-9319/DE805DB0B8A8EEEF?sharingId=CF293C680E372AA7)
+   - [![Certificación](https://img.shields.io/badge/Certificación-Microsoft%20BI-blue)](https://learn.microsoft.com/api/credentials/share/es-es/marianogarcia-9319/DE805DB0B8A8EEEF?sharingId=CF293C680E372AA7) - Microsoft BI.
 ---
 
 ## 💻 Experiencia Profesional
