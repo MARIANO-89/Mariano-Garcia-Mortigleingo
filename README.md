@@ -31,6 +31,34 @@ Me llamo **Mariano Garcia Mortigliengo** y soy **Desarrollador BI** especializad
 
 ---
 
+## 🚀 Proyectos Destacados
+
+### 🔹 Cuadro de mando integral
+🌟 Proyecto de análisis de datos integral de toda la organización en **Power BI** para una empresa de sector público de contrucción. Se generaron dashboards interactivos que mejoraron la toma de decisiones de la gerencia en tiempo real.
+
+- 💡 **Tecnologías**: SQL Server, Power BI, SSIS.
+- 🔗 **Repositorio**: No disponible.
+
+### 🔹 Planificación de Obras
+🌟 Informe en **Power BI** que ayuda a organizar y simular la planificación de obras de empresa del sector público de construcción. 
+
+- 💡 **Tecnologías**: Power BI, SQL Server, SSAS.
+- 🔗 **Repositorio**: No disponible.
+
+### 🔹 Desarrollo de visualizar datos con Streamlit & PygWalker
+🌟 Se crea el proyecto para poder realizar cargas de datos, xlsx o csv, para que se puedan crear visualizaciones de manera agil y gratis.
+
+- 💡 **Tecnologías**: Python, CSS, PygWalker y Streamlit
+- 🔗 **Repositorio**: [![Visualiza tus datos](https://img.shields.io/badge/-Visualiza%20tus%20datos-%23513969?logo=googlechrome&logoColor=%23ffffff&labelColor=%23513969)](https://visualizar-datos.streamlit.app/)
+
+### 🔹 Desarrollo de Web Desbocados
+🌟 Se realiza el FrontEnd para una tienda de ventas de empanadas.  
+
+- 💡 **Tecnologías**: REACT, JS, HTML5, Tailwind
+- 🔗 **Repositorio**: [![Portfolio](https://img.shields.io/badge/-Desbocados-%23513969?logo=googlechrome&logoColor=%23ffffff&labelColor=%23513969)](https://desbocados.vercel.app/)
+
+---
+
 ## 🛠 Habilidades Técnicas
 
 ### 🖥 **BI Tools**:
@@ -57,34 +85,6 @@ Me llamo **Mariano Garcia Mortigliengo** y soy **Desarrollador BI** especializad
 
 ### 🛠 **Herramientas**:
 - Git: ![Git](https://img.shields.io/badge/Git-50%25-f0d86e?logo=git&logoColor=white&labelColor=%23f0d86e)
-
----
-
-## 🚀 Proyectos Destacados
-
-### 🔹 Cuadro de mando integral
-🌟 Proyecto de análisis de datos integral de toda la organización en **Power BI** para una empresa de sector público de contrucción. Se generaron dashboards interactivos que mejoraron la toma de decisiones de la gerencia en tiempo real.
-
-- 💡 **Tecnologías**: SQL Server, Power BI, SSIS.
-- 🔗 **Repositorio**: No disponible.
-
-### 🔹 Planificación de Obras
-🌟 Informe en **Power BI** que ayuda a organizar y simular la planificación de obras de empresa del sector público de construcción. 
-
-- 💡 **Tecnologías**: Power BI, SQL Server, SSAS.
-- 🔗 **Repositorio**: No disponible.
-
-### 🔹 Desarrollo de visualizar datos con Streamlit & PygWalker
-🌟 Se crea el proyecto para poder realizar cargas de datos, xlsx o csv, para que se puedan crear visualizaciones de manera agil y gratis.
-
-- 💡 **Tecnologías**: Python, CSS, PygWalker y Streamlit
-- 🔗 **Repositorio**: [![Visualiza tus datos](https://img.shields.io/badge/-Visualiza%20tus%20datos-%23513969?logo=googlechrome&logoColor=%23ffffff&labelColor=%23513969)](https://visualizar-datos.streamlit.app/)
-
-### 🔹 Desarrollo de Web Desbocados
-🌟 Se realiza el FrontEnd para una tienda de ventas de empanadas.  
-
-- 💡 **Tecnologías**: REACT, JS, HTML5, Tailwind
-- 🔗 **Repositorio**: [![Portfolio](https://img.shields.io/badge/-Desbocados-%23513969?logo=googlechrome&logoColor=%23ffffff&labelColor=%23513969)](https://desbocados.vercel.app/)
 
 ---
 
